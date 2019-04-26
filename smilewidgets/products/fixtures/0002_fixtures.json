@@ -1,0 +1,122 @@
+[
+  {
+    "model": "products.productprice",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "special_price": 800,
+      "price_schedule_from": "2018-11-23",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T15:20:40.796Z",
+      "modified_date": "2019-04-25T16:21:57.054Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 2,
+    "fields": {
+      "product": 2,
+      "special_price": 0,
+      "price_schedule_from": "2018-11-23",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:22:27.972Z",
+      "modified_date": "2019-04-25T16:24:49.469Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 3,
+    "fields": {
+      "product": 1,
+      "special_price": 800,
+      "price_schedule_from": "2018-11-24",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:22:45.240Z",
+      "modified_date": "2019-04-25T16:22:45.240Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 4,
+    "fields": {
+      "product": 2,
+      "special_price": 0,
+      "price_schedule_from": "2018-11-24",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:23:01.694Z",
+      "modified_date": "2019-04-25T16:23:01.694Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 5,
+    "fields": {
+      "product": 1,
+      "special_price": 800,
+      "price_schedule_from": "2018-11-25",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:23:13.058Z",
+      "modified_date": "2019-04-25T16:23:13.058Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 6,
+    "fields": {
+      "product": 2,
+      "special_price": 0,
+      "price_schedule_from": "2018-11-25",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:23:23.403Z",
+      "modified_date": "2019-04-25T16:23:23.403Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 7,
+    "fields": {
+      "product": 1,
+      "special_price": 1200,
+      "price_schedule_from": "2019-04-25",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:26:36.747Z",
+      "modified_date": "2019-04-25T16:26:36.747Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 8,
+    "fields": {
+      "product": 2,
+      "special_price": 125,
+      "price_schedule_from": "2019-04-28",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:26:53.638Z",
+      "modified_date": "2019-04-25T16:26:53.638Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 9,
+    "fields": {
+      "product": 1,
+      "special_price": 1200,
+      "price_schedule_from": "2019-01-01",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:27:32.664Z",
+      "modified_date": "2019-04-25T16:27:32.664Z"
+    }
+  },
+  {
+    "model": "products.productprice",
+    "pk": 10,
+    "fields": {
+      "product": 2,
+      "special_price": 125,
+      "price_schedule_from": "2019-01-01",
+      "price_schedule_to": null,
+      "created_date": "2019-04-25T16:27:49.144Z",
+      "modified_date": "2019-04-25T16:27:49.144Z"
+    }
+  }
+]
